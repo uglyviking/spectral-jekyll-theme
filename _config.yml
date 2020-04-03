@@ -1,7 +1,7 @@
 # Site settings
-title: Spectral
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Spectral theme by HTML5 UP.
+title: Woven Myths
+email: jacobtmeyer@gmail.com
+description: My personal site for writing studies and stories.
 baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
