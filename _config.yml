@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 4
 
 # Misc settings
 featured-image-source:
@@ -22,7 +22,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/jacobtmeyer
 
 # Build settings
 markdown: kramdown
